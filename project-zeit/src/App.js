@@ -10,7 +10,7 @@ function App() {
         <p>
           Hello, this is Kevin's practice Zeit deployment
         </p>
-        
+        This is Kevin's Zeit deployment being rendered via Zeit/now
       </header>
     </div>
   );
